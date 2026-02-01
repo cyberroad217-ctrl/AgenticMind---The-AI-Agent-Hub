@@ -1,0 +1,7 @@
+{
+  "name": "AgenticMind - The AI Agent Hub",
+  "description": "A high-end professional blogging platform dedicated to AI agents, AGI, LLMs, and cutting-edge research, featuring an integrated AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
